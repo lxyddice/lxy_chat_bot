@@ -1,7 +1,7 @@
 # lxy
 简单的机器人对话
 
-### 需要安装openpyxl库
+### 需要安装openpyxl库，如何运行
 
 <code>pip install openpyxl</code>
 
@@ -9,6 +9,8 @@
 需要把xls转换/重写到xlsx文件，否则无法读取
 
 使用打包的exe，记得把xlsx放在同目录，下载在Releases
+
+直接git下载，然后<code>python main.py</code>启动
 
 ### 功能
 
