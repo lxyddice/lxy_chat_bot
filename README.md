@@ -1,10 +1,18 @@
 # lxy
 简单的机器人对话
 
+### 需要安装openpyxl库
+
 <code>pip install openpyxl</code>
 
 使用数据库为[强大的二次元聊天机器人词库2W+词条(不定期更新)](https://mirai.mamoe.net/topic/1829/%E5%BC%BA%E5%A4%A7%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%85%83%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%AF%8D%E5%BA%932w-%E8%AF%8D%E6%9D%A1-%E4%B8%8D%E5%AE%9A%E6%9C%9F%E6%9B%B4%E6%96%B0?_=1686707986321)
 需要把xls转换/重写到xlsx文件，否则无法读取
+
+使用打包的exe，记得把xlsx放在同目录，下载在Releases
+
+### 功能
+
+随机输出
 
 模糊匹配
 
