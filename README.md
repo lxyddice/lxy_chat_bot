@@ -30,3 +30,6 @@
 <code>dont_know = ['唔...', '奇怪，突然不想动脑子了！', '诶？什么呢...', '发生什么事了？', '嗯', '什么啦！']</code>
 
 改一改就能接入一些bot的聊天了
+
+#### 只是顺手一丢（
+![mm_reward_qrcode_1686572988128](https://github.com/lxyddice/lxy_chat_bot/assets/95132858/79271b2a-86cb-417a-9480-a890554262fe)
